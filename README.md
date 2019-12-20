@@ -4,7 +4,7 @@ This project was created based on the requiement of the following:
 1. upload photo based on genders- make and female. These photos will be save in a server.
 2. create an android App to display the previously uploaded photos on the mobile screen.
 
-#Important Note
+# Important Note
 Please replace this.state.host with your own localhost address before testing.
 
 Technologies used:
